@@ -1,0 +1,28 @@
+[
+  {
+    "id": "87691d67",
+    "title": "The Rise of AI in 2025",
+    "author": "Nikka Love",
+    "tags": [
+      "technology",
+      "ai",
+      "future"
+    ],
+    "content": "In 2025, AI continues to reshape our world. From smart assistants to self-driving cars, innovation is at its peak.",
+    "release": "2025-06-23T20:01:43.435Z",
+    "cover": "https://example.com/images/ai_cover.jpg"
+  },
+  {
+    "id": "bcf08287",
+    "title": "The Rise of AI in 2025",
+    "author": "Nikka Love",
+    "tags": [
+      "technology",
+      "ai",
+      "future"
+    ],
+    "content": "In 2025, AI continues to reshape our world. From smart assistants to self-driving cars, innovation is at its peak.",
+    "release": "2025-06-23T20:02:51.416Z",
+    "cover": "https://example.com/images/ai_cover.jpg"
+  }
+]
